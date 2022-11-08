@@ -9,7 +9,7 @@
 
 This project was built as part of an assignment to explore the XR Interaction Toolkit and basic prototyping in VR. 
 
-The maze has an interactable “key” that is used to open a door or to progress through the level. 
+The maze has an interactable “key” that is used to open a door to progress through the level. 
 
 The XR Rig is setup with a locomotion system and its associated providers as well as XR Direct/Ray Interactors. 
 
