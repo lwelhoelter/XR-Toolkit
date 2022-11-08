@@ -4,7 +4,7 @@
 </div>
 
 
-## About The Project
+### About The Project
 
 This project was built as part of an assignment to explore the XR Interaction Toolkit and basic prototyping in VR. 
 
@@ -19,7 +19,7 @@ The XR Rig is setup with a locomotion system and its associated providers as wel
 * [ProGrids](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)
 * [ProBuilder](https://docs.unity3d.com/Packages/com.unity.probuilder@5.0/manual/index.html)
 
-## Challenges 
+### Challenges 
 
 My main challenge came with understanding layers. I found it somewhat difficult to keep up with the multiple layers being added and what they were 
 
