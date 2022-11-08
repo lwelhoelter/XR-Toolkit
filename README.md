@@ -21,8 +21,7 @@ The XR Rig is setup with a locomotion system and its associated providers as wel
 
 ### Challenges 
 
-My main challenge came with understanding layers. I found it somewhat difficult to keep up with the multiple layers being added and what they were 
-
+My main challenge came with understanding layers. I found it somewhat difficult to keep up with the multiple layers being added and what they were each being used for. I found [this](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/interaction-layers.html) resource particularly helpful when trying to dive a bit deeper with my understanding.
 
 
 
