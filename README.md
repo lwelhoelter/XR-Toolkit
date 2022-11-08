@@ -1,10 +1,9 @@
 <br />
 <div align="center">
-  <h3 align="center">Assignment 12.1: Create a Maze</h3>
+  <h2 align="center">Assignment 12.1: Create a Maze</h2>
 </div>
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project was built as part of an assignment to explore the XR Interaction Toolkit and basic prototyping in VR. 
