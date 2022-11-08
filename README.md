@@ -15,10 +15,10 @@ The XR Rig is setup with a locomotion system and its associated providers as wel
 
 ### Built With
 
-* [![XR Interaction Toolkit][https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html]
-* [![Low Poly Dungeon Lite - Fantasy Modular Kit][https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-dungeon-lite-fantasy-modular-kit-224313]
-* [![ProGrids][https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html]
-* [![ProBuilder][https://docs.unity3d.com/Packages/com.unity.probuilder@5.0/manual/index.html]
+* [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html)
+* [Low Poly Dungeon Lite - Fantasy Modular Kit](https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-dungeon-lite-fantasy-modular-kit-224313)
+* [ProGrids](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)
+* [ProBuilder](https://docs.unity3d.com/Packages/com.unity.probuilder@5.0/manual/index.html)
 
 ## Challenges 
 
